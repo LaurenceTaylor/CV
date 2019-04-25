@@ -2,7 +2,7 @@
 
 Several years learning to code as a hobby (Codewars, Freecodecamp, The Odin Project) culminated in enrolling at Makers, a highly selective coding bootcamp in London, UK. Over the next three months I hope to engage with a comprehensive curriculum including test-driven development, agile development, and pair programming.
 
-I recently graduated with a 2.1 from Queen Mary University of London, and worked as a Fraud Analyst within a major tech company for just over a year. 
+I recently graduated with a 2.1 from Queen Mary University of London, and worked as a Fraud Analyst within a major tech company for over a year. 
 
 ## Skills
 
