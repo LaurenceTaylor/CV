@@ -36,8 +36,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Queen Mary University of London (September 2013 to June 2017)
 
-- Geography, Environmental Science
-- 2.1, 68
+- BSc Geography, Environmental Science
+- 2.1: 68
 - Other cool stuff
 
 #### Any other qualifications
