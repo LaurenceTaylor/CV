@@ -49,6 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Viagogo** (November 2017 to January 2019)    
 *Fraud Analyst*
+
 Prevented fraudulent transactions by learning a range of specialist software as well as using Excel and SQL. Consistently outperformed all targets including false negatives (by >45%), false positives (by >20%), and productivity (by up to 82%). Resolved the highest-value transaction in the company's history.
 
 Identified a fraud ring responsible for £25,000 in bad debt. Proposed a business case which included key characteristics of the trend, a numbers analysis, and a strategy to prevent future losses.
