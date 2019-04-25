@@ -1,6 +1,6 @@
 ## Laurence Taylor
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am currently a student at Makers, a highly selective coding bootcamp in London, UK. I recently graduated with a 2.1 from Queen Mary University of London, and have worked as a Fraud Analyst within a tech company for the last year. 
 
 ## Skills
 
@@ -34,17 +34,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Queen Mary University of London (September 2013 to June 2017)
+#### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to June 2017)
 
-- BSc Geography, Environmental Science
-- 2.1: 68
-- Other cool stuff
+- Achieved a high 2.1, with a first-class dissertation 
+- Modules included data analysis and modelling using R, Excel, and SPSS
+- PASS Senior Mentor, language learning scholarship recipient
 
-#### Any other qualifications
+#### A Levels
+- A Levels in Physics, English, Geography; AS Level in Mathematics
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Viagogo** (November 2017 to January 2019)    
+*Fraud Analyst*  
