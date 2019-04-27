@@ -27,7 +27,7 @@ I have over 10 years of experience using Adobe Photoshop and Illustrator, includ
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to June 2017)
+#### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to July 2017)
 
 - Achieved a high 2.1, with a first-class dissertation 
 - Modules included data analysis and modelling using R, Excel, and SPSS
