@@ -31,7 +31,7 @@ I have over 10 years of experience using Adobe Photoshop and Illustrator, includ
 
 - Achieved a high 2.1, with a first-class dissertation 
 - Modules included data analysis and modelling using R, Excel, and SPSS
-- PASS Senior Mentor, language learning scholarship recipient
+- PASS Senior Mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
 
 #### A Levels
 - A Levels in Physics, English, Geography; AS Level in Mathematics
