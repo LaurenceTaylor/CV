@@ -2,34 +2,25 @@
 
 Several years learning to code as a hobby (Codewars, Freecodecamp, The Odin Project) culminated in enrolling at Makers, a highly selective coding bootcamp in London, UK. Over the next three months I hope to engage with a comprehensive curriculum including test-driven development, agile development, and pair programming.
 
-I recently graduated with a 2.1 from Queen Mary University of London, and worked as a Fraud Analyst within a major tech company for over a year. 
+I recently graduated with a 2.1 from Queen Mary University of London, and worked as a Fraud Analyst for over a year within a major tech company. 
 
 ## Skills
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Sitting on the Youth Advisory Panel of environmental charity Global Action Plan (GAP) provided me with several opportunities to develop my communication skills. I delivered a short speech in one of the keynote theatres of Edie Live, the foremost sustainability conference in the UK. I also engaged in a boardroom discussion with senior CSR professionals from a range of companies at EY in Canary Wharf.
 
-- Experience
-- Achievements
-- Evidence
+#### Design
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have over 10 years of experience using Adobe Photoshop and Illustrator, including work for clients. I designed the logo for GAP's "Long Live the Lunchbox" campaign which received extensive coverage online.
 
 ## Education
 
 #### Makers Academy (April 2019 to July 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code
+- Fast, independent learner
+- Great collaborator 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
