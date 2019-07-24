@@ -1,53 +1,63 @@
-## Laurence Taylor
+# Laurence Taylor
 
-Several years learning to code as a hobby (Codewars, Freecodecamp, The Odin Project) culminated in enrolling at Makers, a highly selective coding bootcamp in London, UK. Over the next three months I hope to engage with a comprehensive curriculum including test-driven development, agile development, and pair programming.
+I am a full stack software developer, former fraud analyst, and QMUL graduate. I recently completed the software development programme at Makers which placed strong emphasis on processes/ methodologies such as TDD, OOP, agile, MVC, git collaboration, and CI/CD. During the course I used JavaScript, Ruby and Python, but am enthusiastic to learn new technologies.
 
-I recently graduated with a 2.1 from Queen Mary University of London, and worked as a Fraud Analyst for over a year within a major tech company. 
+For the last few years I've known I liked to code. A few months ago I went all in, applying and being selected for Makers (developing a slight [Codewars](https://www.codewars.com/users/LaurenceTaylor) habit in the process). I am now excited to embark on a career which enables lifelong learning, working on interesting projects, and contributing to forward-thinking organisations.
+
+Outside of coding I am interested in environmental issues, reading (book club member!), and playing guitar. I am also a keen, but untalented, 5-a-side football player.
+
+## Projects
+
+Project | Description | Technologies
+--- | --- | ---
+Example | Example | Example
 
 ## Skills
 
-#### Communication
+### Learning Quickly and Independently
 
-Sitting on the Youth Advisory Panel of environmental charity Global Action Plan (GAP) provided me with several opportunities to develop my communication skills. I delivered a short speech in one of the keynote theatres of Edie Live, the foremost sustainability conference in the UK. I also engaged in a boardroom discussion with senior CSR professionals from a range of companies at EY in Canary Wharf.
+In my previous role I had to learn a range of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as the entirely alien field which was fraud prevention. I am pleased to say I became the top performer in terms of targets within a few months. Makers has added
 
-#### Design
+### Attention to Detail
 
-I have over 10 years of experience using Adobe Photoshop and Illustrator, including work for clients. I designed the logo for GAP's "Long Live the Lunchbox" campaign which received extensive coverage online.
+
+
+### Communication
+
+Being on the Youth Panel of environmental charity Global Action Plan (GAP) afforded me a number of fantastic opportunities to develop my communication skills. I delivered a short speech in one of the keynote theatres of Edie Live 2018, the foremost sustainability conference in the UK. I also engaged in discussions with business leaders at EY in Canary Wharf, and spoke regularly with a team of peers while setting up a national campaign to reduce food packaging waste.
 
 ## Education
 
-#### Makers Academy (April 2019 to July 2019)
+### Makers Academy (April 2019 to July 2019)
 
 - Curious and passionate about code
 - Fast, independent learner
-- Great collaborator 
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to July 2017)
+### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to July 2017)
 
-- Achieved a high 2.1, with a first-class dissertation 
-- Modules included data analysis and modelling using R, Excel, and SPSS
-- PASS Senior Mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
+- Achieved a high 2.1, with a first-class dissertation.
+- Modules included modelling with R, and data analysis using Excel and SPSS.
+- Extracurriculars: PASS senior mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
 
-#### A Levels
-- A Levels in Physics, English, Geography; AS Level in Mathematics
+### A Levels
+- A Levels in Physics, English Literature, Geography; AS Level in Mathematics
 
 ## Experience
 
 **Viagogo** (November 2017 to January 2019)    
 *Fraud Analyst*
 
-Prevented fraudulent transactions by learning a range of specialist software as well as using Excel and SQL. Consistently outperformed all targets including false negatives (by >45%), false positives (by >20%), and productivity (by >80%). Resolved the highest-value transaction in the company's history.
+Prevented fraudulent transactions by learning a range of specialist software, conducting analysis with Excel and SQL, and presenting business cases. Outperformed all targets including false negatives (by >45%), false positives (by >20%), and productivity (by >50%). Resolved the highest-value transaction in the company's history.
 
-Identified a fraud ring responsible for £25,000 in bad debt. Proposed a business case which included key characteristics of the trend, a numbers analysis, and a strategy to prevent future losses.
+Communicated regularly with colleagues while sharing and receiving details of the latest trends. Helped to train employees in international offices.
 
-Shared details of the latest fraud trends and listened to updates from colleagues. Helped to train new employees for international offices.
-
-**Causarma** (June 2017 - July 2017)
+**Causarma** (June to July 2017)
 *Business Group Consultant*
 
 Worked as part of a team to conduct a research project on ‘Generation Z’ for campaigns agency Causarma. Worked flexibly when assisting with the collection, presentation and analysis of qualitative data to a tight deadline, culminating in a 3000-word report and oral presentation.
