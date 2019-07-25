@@ -26,28 +26,32 @@ One of Makers' mottos is 'learning how to learn', and they provide students with
 
 In my previous role I learned a suite of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely alien field which was fraud prevention. I am pleased to say I became the top performer in terms of targets within a few months.
 
+### Communication and Collaboration
+
+At Makers students either pair every day or work on group projects. This requires regular communication, collaboration, and code reviews. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on larger group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
+
 ### Test-Driven Development
 
 Every project completed at Makers was test driven using a variety of frameworks. I aspire to write isolated tests, which test behaviour and not state, while achieving high coverage. I believe TDD is critical to producing high quality, concise code while avoiding regression.
 
-### Communication and Collaboration
+### Problem Solving and Debugging
 
-At Makers students either pair every day or work on group projects. This requires regular communication, collaboration, and code reviews. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
+A recent problem my team and I faced was to debug hardware - [our touch screen stopped working the moment we booted our app](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc), with no errors thrown to guide our thinking. Closing the loop was critical, and we eliminated possible failures one by one until we found the exact issue.
 
 ## Education
 
-<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
+#### Makers Academy (April 2019 to July 2019)
 
-### Makers Academy (April 2019 to July 2019)
+<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
 
 * JavaScript, Ruby, Python, SQL, HTML/ CSS
 * TDD with Jasmine, RSpec, Capybara, Pytest; 95%+ test coverage, testing in isolation
 * Sinatra, Rails, single-page applications
 * OOP, MVC, agile, modelling, pairing and mobbing, version control and git collaboration, CI/CD
 
-### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to July 2017)
+#### Queen Mary University of London (September 2013 to July 2017)
 
-* Achieved a high 2.1, with a first-class dissertation.
+* BSc in Geography & Environmental Science: achieved a high 2.1 with a first-class dissertation.
 * Modules included modelling with R and data analysis using Excel and SPSS.
 * Extracurriculars: PASS senior mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
 
