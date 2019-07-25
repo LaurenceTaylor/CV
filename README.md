@@ -36,7 +36,7 @@ At Makers students either pair every day or work on group projects. This require
 
 ## Education
 
-<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-black.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
 
 ### Makers Academy (April 2019 to July 2019)
 
