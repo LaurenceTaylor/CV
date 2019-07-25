@@ -12,9 +12,9 @@ Outside of coding I am interested in environmental issues, reading (book club me
 
 Project | Description | Technologies | Testing/ Other
 --- | --- | --- | ---
-[Deep Root](https://github.com/LaurenceTaylor/deep_root) | Final project, working in an agile team for the last week and a half of the course: a self-contained plant monitoring station with touch-screen interface. A single-page app deployed to the desktop where users can start and stop monitoring, be notified of optimal moisture levels, and view historical data with no interruption in readings | Raspberry Pi, Adafruit STEMMA, 3.5-inch touch screen; Python, JavaScript, SQLite, Eel, Plotly, HTML/ CSS | Pytest, ESLint, Travis CI
+[Deep Root](https://github.com/LaurenceTaylor/deep_root) | Final project, working in an agile team for the last week and a half of the course: a self-contained plant monitoring station with touch-screen interface. A single-page desktop app where users can start and stop monitoring, be notified of optimal moisture levels, and view historical data with no interruption in readings | Raspberry Pi, Adafruit STEMMA, 3.5-inch touch screen; Python, JavaScript, SQLite, Eel, Plotly, HTML/ CSS | Pytest, ESLint, Travis CI
 [Gilded Rose](https://github.com/LaurenceTaylor/GildedRose-Refactoring-Kata) | A solution to the Gilded Rose refactoring kata | Ruby | RSpec, Rubocop
-[Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) | An introduction to agile methodologies and Ruby on Rails: a Facebook clone made in two weeks. Deployed on [Heroku](https://acebook-spacebook.herokuapp.com/) | Ruby on Rails, HTML/ CSS | RSpec, Capybara, Rubocop, Travis CI, Heroku
+[Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) | Our introduction to agile methodologies and Ruby on Rails: a Facebook clone made in two weeks. Deployed on [Heroku](https://acebook-spacebook.herokuapp.com/) | Ruby on Rails, HTML/ CSS | RSpec, Capybara, Rubocop, Travis CI, Heroku
 [Chitter](https://github.com/LaurenceTaylor/chitter-challenge) | A weekend project to build a Twitter clone | Ruby, Sinatra, Postgresql, HTML/ CSS | RSpec, Capybara, Rubocop
 [Frontend API Challenge](https://github.com/LaurenceTaylor/frontend-api-challenge) | Another weekend project to build a Twitter clone, this time as a single-page app in JavaScript using a RESTful API | JavaScript, HTML/ CSS, jQuery | I created a rudimentary testing framework that week, which I used here!
 
@@ -22,9 +22,9 @@ Project | Description | Technologies | Testing/ Other
 
 ### Learning Quickly and Independently
 
-One of Makers' mottos is 'learning how to learn', and they provide students with the tools and concepts to do so. In week 5 we were tasked with learning the basics of JavaScript within one week, with a weekend challenge of producing a [bowling scorecard app](https://github.com/LaurenceTaylor/bowling-challenge). This experience built my confidence, and for the [final project](https://github.com/LaurenceTaylor/deep_root) my team and I challenged ourselves to learn something completely new by creating a hardware product.
+One of Makers' mottos is 'learning how to learn', and they provide students with the tools and concepts to do so. In week 5 we were tasked with learning the basics of JavaScript within one week, then producing a [bowling scorecard app](https://github.com/LaurenceTaylor/bowling-challenge) on the weekend. This experience built my confidence, and for the [final project](https://github.com/LaurenceTaylor/deep_root) my team and I challenged ourselves to learn something completely new by creating a hardware product.
 
-In my previous role I learned a suite of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely alien field which was fraud prevention. I am pleased to say I became the top performer in terms of targets within a few months.
+In my previous role I learned a suite of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely unfamiliar field that was fraud prevention. I am pleased to say I became the top performer in terms of targets within three months.
 
 ### Communication and Collaboration
 
@@ -32,11 +32,11 @@ At Makers students either pair every day or work on group projects. This require
 
 ### Test-Driven Development
 
-Every project completed at Makers was test driven using a variety of frameworks. I aspire to write isolated tests, which test behaviour and not state, while achieving high coverage. I believe TDD is critical to producing high quality, concise code while avoiding regression.
+Every project completed at Makers was test driven using a variety of frameworks. I aspire to write isolated tests, which test behaviour and not state, while achieving high coverage. I believe TDD is critical to producing high quality and concise code while avoiding regression.
 
 ### Problem Solving and Debugging
 
-A recent problem my team and I faced was to debug hardware - [our touch screen stopped working the moment we booted our app](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc), with no errors thrown to guide our thinking. Closing the loop was critical, and we eliminated possible failures one by one until we found the exact issue.
+A recent problem my team and I faced was to debug hardware - [our touch screen stopped working the moment we booted our app](https://medium.com/@makers_c_a_c_t_u_s/debugging-hardware-by-ben-82c38ada24bc), and no errors were thrown to guide our thinking. 'Closing the loop' was our saving grace, and we eliminated possible failures one by one until we found the exact issue.
 
 ## Education
 
