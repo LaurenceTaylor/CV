@@ -2,8 +2,6 @@
 
 [Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Work-Experience) | [Hobbies](https://github.com/LaurenceTaylor/CV#Hobbies) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Website](http://www.laurencetaylor.co.uk/)
 
-<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
-
 I am a full stack software developer, former fraud analyst, and QMUL graduate. I recently completed the software development programme at Makers which placed strong emphasis on processes/ methodologies such as TDD, OOP, agile, MVC, git collaboration, and CI/CD. During the course I used JavaScript, Ruby and Python, but am enthusiastic to learn new technologies.
 
 For the last few years I've known I liked to code. A few months ago I went all in, applying and being selected for Makers (developing a slight [Codewars](https://www.codewars.com/users/LaurenceTaylor) habit in the process). I am now excited to embark on a career which enables lifelong learning, working on interesting projects, and contributing to forward-thinking organisations.
@@ -30,11 +28,9 @@ In my previous role I had to learn a range of software (Cybersource, Sift Scienc
 
 Every project completed at Makers was test driven. I aspire to write isolated tests, which test behaviour and not state, while achieving high coverage.
 
-### Attention to Detail
-
 ### Communication and Collaboration
 
-At Makers students either pair every day, or work on group projects. This requires constant communication, collaboration, and code reviews.
+At Makers students either pair every day, or work on group projects. This requires constant communication, collaboration, and code reviews. For example, when we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was possible through regular knowledge sharing and mobbing. Working on group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
 
 ## Education
 
