@@ -1,4 +1,5 @@
 # Laurence Taylor
+[Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Experience) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Website](http://www.laurencetaylor.co.uk/)
 
 I am a full stack software developer, former fraud analyst, and QMUL graduate. I recently completed the software development programme at Makers which placed strong emphasis on processes/ methodologies such as TDD, OOP, agile, MVC, git collaboration, and CI/CD. During the course I used JavaScript, Ruby and Python, but am enthusiastic to learn new technologies.
 
@@ -48,7 +49,7 @@ Being on the Youth Panel of environmental charity Global Action Plan (GAP) affor
 #### Coopers' Company and Coborn School
 * A Levels in Physics, English Literature, Geography; AS Level in Mathematics
 
-## Experience
+## Work Experience
 
 **Viagogo** (November 2017 to January 2019)    
 *Fraud Analyst*
