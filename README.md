@@ -85,4 +85,4 @@ Produce a trustee induction pack to a deadline of 12 days.
 
 Interacted with hundreds of visitors daily while answering customer questions, initiating conversation, and helping to sell prints.
 
-[Back to Top](https://github.com/LaurenceTaylor/CV#Laurence-Taylor)
+<a href='https://github.com/LaurenceTaylor/CV#Laurence-Taylor' align='center'>Back to top</a>
