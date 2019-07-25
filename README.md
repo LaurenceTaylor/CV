@@ -8,9 +8,13 @@ Outside of coding I am interested in environmental issues, reading (book club me
 
 ## Projects
 
-Project | Description | Technologies
+Project | Description | Technologies | Testing/ Other
 --- | --- | ---
-Example | Example | Example
+[Deep Root](https://github.com/LaurenceTaylor/deep_root) | Final project, working in an agile team for the last week and a half of the course: a self-contained plant monitoring station with touch-screen interface. A single-page app deployed to the desktop where users can start and stop monitoring, be notified of optimal moisture levels, and view historical data with no interruption in readings | Raspberry Pi, Adafruit STEMMA, 3.5-inch touch screen; Python, JavaScript, SQLite, Eel, Plotly, HTML/ CSS | Pytest, ESLint, Travis CI
+[Gilded Rose](https://github.com/LaurenceTaylor/GildedRose-Refactoring-Kata) | A solution to the Gilded Rose refactoring kata | Ruby | RSpec, Rubocop
+[Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) | An introduction to agile methodologies and Ruby on Rails: a Facebook clone made in two weeks. Deployed on [Heroku](https://acebook-spacebook.herokuapp.com/) | Ruby on Rails, HTML/ CSS | RSpec, Capybara, Rubocop, Travis CI, Heroku
+[Chitter](https://github.com/LaurenceTaylor/chitter-challenge) | A weekend project to build a Twitter clone | Ruby, Sinatra, Postgresql, HTML/ CSS | RSpec, Capybara, Rubocop
+[Frontend API Challenge](https://github.com/LaurenceTaylor/frontend-api-challenge) | Another weekend project to build a Twitter clone, this time as a single-page app in JavaScript using a RESTful API | JavaScript, HTML/ CSS, jQuery | I created a rudimentary testing framework that week, which I used here!
 
 ## Skills
 
