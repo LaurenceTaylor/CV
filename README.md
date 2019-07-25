@@ -61,14 +61,26 @@ Communicated regularly with colleagues while sharing and receiving details of th
 **Global Action Plan** (October 2017 to January 2019)
 *Youth Panel Member*
 
+Spoke in one of the keynote theatres of Edie Live 2018, engaged with business leaders at EY in Canary Wharf, and helped to set up a national campaign to reduce food packaging waste.
+
 **Wooland** (February to October 2017)
 *Team Member*
+
+Helped to set up this social enterprise, aiming to improve community cohesion through cultural events in the London Borough of Tower Hamlets. Pitched and awarded funding at the East London Social Hack 2017.
 
 **Causarma** (June to July 2017)
 *Business Group Consultant*
 
+Worked as part of a team to conduct a research project on ‘Generation Z’ and the future role of business. Assisted with the collection, presentation and analysis of qualitative data, culminating in a 3000-word report and presentation.
+
 **Stratford Circus Arts Centre** (July to September 2016)
 *Finance and Accounting Project Leader*
 
+Produce a trustee induction pack to a deadline of 12 days. Researched company and charity law to produce a professional, concise, and visually stimulating 10-page document.
+
 **House of MinaLima** (June to September 2016)
 *Gallery Assistant*
+
+Interacted with hundreds of visitors daily while answering customer questions, initiating conversation, and helping to sell prints.
+
+[Back to Top](https://github.com/LaurenceTaylor/CV#Laurence-Taylor)
