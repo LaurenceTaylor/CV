@@ -20,7 +20,7 @@ Project | Description | Technologies | Testing/ Other
 
 ### Learning Quickly and Independently
 
-In my previous role I had to learn a range of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as the entirely alien field which was fraud prevention. I am pleased to say I became the top performer in terms of targets within a few months. Makers has added
+In my previous role I had to learn a range of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely alien field which was fraud prevention. I am pleased to say I became the top performer in terms of targets within a few months. Makers values and teaches fast learning.
 
 ### Attention to Detail
 
@@ -34,36 +34,40 @@ Being on the Youth Panel of environmental charity Global Action Plan (GAP) affor
 
 ### Makers Academy (April 2019 to July 2019)
 
-- Curious and passionate about code
-- Fast, independent learner
-- Great collaborator
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* JavaScript, Ruby, Python, SQL, HTML/ CSS
+* TDD with Jasmine, RSpec, Capybara, Pytest; 95%+ test coverage, testing in isolation
+* Sinatra, Rails, single-page applications
+* OOP, MVC, agile, modelling, pairing and mobbing, version control and git collaboration, CI/CD
 
 ### BSc in Geography & Environmental Science: Queen Mary University of London (September 2013 to July 2017)
 
-- Achieved a high 2.1, with a first-class dissertation.
-- Modules included modelling with R, and data analysis using Excel and SPSS.
-- Extracurriculars: PASS senior mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
+* Achieved a high 2.1, with a first-class dissertation.
+* Modules included modelling with R, and data analysis using Excel and SPSS.
+* Extracurriculars: PASS senior mentor, language learning scholarship recipient, curator of Visual Arts Collective exhibition, writer for CUB Magazine and The Print, host on Quest Radio.
 
-### A Levels
-- A Levels in Physics, English Literature, Geography; AS Level in Mathematics
+#### Coopers' Company and Coborn School
+* A Levels in Physics, English Literature, Geography; AS Level in Mathematics
 
 ## Experience
 
 **Viagogo** (November 2017 to January 2019)    
 *Fraud Analyst*
 
-Prevented fraudulent transactions by learning a range of specialist software, conducting analysis with Excel and SQL, and presenting business cases. Outperformed all targets including false negatives (by >45%), false positives (by >20%), and productivity (by >50%). Resolved the highest-value transaction in the company's history.
+Prevented fraudulent transactions by learning a range of specialist software, conducting analysis using Excel and SQL, and presenting business cases. Outperformed all targets including false negatives (by >45%), false positives (by >20%), and productivity (by >50%). Resolved the highest-value transaction in the company's history.
 
-Communicated regularly with colleagues while sharing and receiving details of the latest trends. Helped to train employees in international offices.
+Communicated regularly with colleagues while sharing and receiving details of the latest fraud trends. Travelled and trained employees in international offices.
+
+**Global Action Plan** (October 2017 to January 2019)
+*Youth Panel Member*
+
+**Wooland** (February to October 2017)
+*Team Member*
 
 **Causarma** (June to July 2017)
 *Business Group Consultant*
 
-Worked as part of a team to conduct a research project on ‘Generation Z’ for campaigns agency Causarma. Worked flexibly when assisting with the collection, presentation and analysis of qualitative data to a tight deadline, culminating in a 3000-word report and oral presentation.
+**Stratford Circus Arts Centre** (July to September 2016)
+*Finance and Accounting Project Leader*
 
-Commended by colleagues for being reliable and having great attention to detail while leading the data presentation and design of the project. Responsible for the recommendations section which described how businesses could most effectively attract ‘Generation Z’ as consumers and workers.
+**House of MinaLima** (June to September 2016)
+*Gallery Assistant*
