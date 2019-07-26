@@ -28,7 +28,7 @@ In my previous role I learned a suite of software (Cybersource, Sift Science, Ar
 
 ### Communication and Collaboration
 
-At Makers students either pair every day or work on group projects. This requires regular communication, collaboration, and code reviews. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on larger group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
+At Makers students either pair every day or work on group projects. This requires regular communication, collaboration, and code reviews. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on larger group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/LaurenceTaylor/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
 
 ### Test-Driven Development
 
