@@ -13,6 +13,7 @@ Outside of coding I am interested in environmental issues, reading (book club me
 Project | Description | Technologies | Testing/ Other
 --- | --- | --- | ---
 [Deep Root](https://github.com/LaurenceTaylor/deep_root) | Final project, working in an agile team for the last week and a half of the course: a self-contained plant monitoring station with touch-screen interface. A single-page desktop app where users can start and stop monitoring, be notified of optimal moisture levels, and view historical data with no interruption in readings | Raspberry Pi, Adafruit STEMMA, 3.5-inch touch screen; Python, JavaScript, SQLite, Eel, Plotly, HTML/ CSS | Pytest, ESLint, Pylama, Travis CI
+[Personal Site](https://github.com/LaurenceTaylor/personal-site) | Independently building a personal website using unfamiliar technology. Practicing styling a website from scratch. | GatsbyJS, HTML/ CSS | ESLint, Surge
 [Gilded Rose](https://github.com/LaurenceTaylor/GildedRose-Refactoring-Kata) | A solution to the Gilded Rose refactoring kata | Ruby | RSpec, Rubocop
 [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) | Our introduction to agile methodologies and Ruby on Rails: a Facebook clone made in two weeks. Deployed on [Heroku](https://acebook-spacebook.herokuapp.com/) | Ruby on Rails, HTML/ CSS | RSpec, Capybara, Rubocop, Travis CI, Heroku
 [Chitter](https://github.com/LaurenceTaylor/chitter-challenge) | A weekend project to build a Twitter clone | Ruby, Sinatra, Postgresql, HTML/ CSS | RSpec, Capybara, Rubocop
