@@ -16,8 +16,8 @@ Project | Description | Technologies | Testing/ Other
 [Personal Site](https://github.com/LaurenceTaylor/personal-site) | Independently built a personal website using unfamiliar technology, and practiced styling a website from scratch | GatsbyJS, HTML/ CSS | ESLint, Surge
 [Gilded Rose](https://github.com/LaurenceTaylor/GildedRose-Refactoring-Kata) | A solution to the Gilded Rose refactoring kata | Ruby | RSpec, Rubocop
 [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) | Our introduction to agile methodologies and Ruby on Rails: a Facebook clone made in two weeks. Deployed on [Heroku](https://acebook-spacebook.herokuapp.com/) | Ruby on Rails, HTML/ CSS | RSpec, Capybara, Rubocop, Travis CI, Heroku
-[Chitter](https://github.com/LaurenceTaylor/chitter-challenge) | A weekend project to build a Twitter clone | Ruby, Sinatra, Postgresql, HTML/ CSS | RSpec, Capybara, Rubocop, Surge
-[Frontend API Challenge](https://github.com/LaurenceTaylor/frontend-api-challenge) | Another weekend project to build a Twitter clone, this time as a single-page app in JavaScript using a RESTful API | JavaScript, HTML/ CSS, jQuery | I created a rudimentary testing framework that week, which I used here!
+[Chitter](https://github.com/LaurenceTaylor/chitter-challenge) | A weekend project to build a Twitter clone | Ruby, Sinatra, Postgresql, HTML/ CSS | RSpec, Capybara, Rubocop
+[Frontend API Challenge](https://github.com/LaurenceTaylor/frontend-api-challenge) | Another weekend project to build a Twitter clone, this time as a single-page app in JavaScript using a RESTful API | JavaScript, HTML/ CSS, jQuery | Surge. I created a rudimentary testing framework that week, which I used here!
 
 ## Skills
 
