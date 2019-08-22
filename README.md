@@ -1,8 +1,6 @@
 ## Laurence Taylor
 
-[Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Work-Experience) | [Interests](https://github.com/LaurenceTaylor/CV#Interests)
-
-[Personal Site](http://laurence.tech) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Codewars](https://www.codewars.com/users/LaurenceTaylor)
+[Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Work-Experience) | [Interests](https://github.com/LaurenceTaylor/CV#Interests) // [Personal Site](http://laurence.tech) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Codewars](https://www.codewars.com/users/LaurenceTaylor)
 
 I am a full stack developer and former fraud analyst, having recently completed the software development programme at [Makers](https://makers.tech/). The course emphasised TDD and Agile methodologies, as well as code quality and best practices. I am keen to work in (almost) any language, and always strive to pick things up quickly, help my team succeed, and deepen my understanding. It would be fantastic to continue learning within a high performing and communicative team.
 
@@ -87,15 +85,19 @@ Interacted with hundreds of visitors daily while answering customer questions, i
 ## Interests
 
 :computer: *Technology*
+
 I like to keep up with news through publications like MIT Technology Review as well as Twitter, Youtube, and blog posts. Jabrils is a current favourite.
 
 :book: *Reading*
+
 Keen reader and currently a book club member! A recent great book was 'China in Ten Words' by Yu Hua.
 
 :soccer: *Team Sports*
+
 Enthusiastic, but untalented, 5-a-side football player. We started a group which now has ~40 members!
 
 :musical_note: *Playing Guitar*
+
 Music is a nice way to relax. I've been practicing acoustic guitar for around 15 years now.
 
-[Back to the top](https://github.com/LaurenceTaylor/CV#Laurence-Taylor)
+:arrow_up: [Back to top](https://github.com/LaurenceTaylor/CV#Laurence-Taylor) :arrow_up:
