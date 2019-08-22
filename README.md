@@ -1,12 +1,13 @@
 ## Laurence Taylor
 
-[Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Work-Experience) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Website](http://www.laurencetaylor.co.uk/)
+[Projects](https://github.com/LaurenceTaylor/CV#Projects) | [Skills](https://github.com/LaurenceTaylor/CV#Skills) | [Education](https://github.com/LaurenceTaylor/CV#Education) | [Experience](https://github.com/LaurenceTaylor/CV#Work-Experience) | [Interests](https://github.com/LaurenceTaylor/CV#Interests)
+[Personal Site](http://laurence.tech) | [LinkedIn](https://www.linkedin.com/in/laurencetaylorlondon/) | [Codewars](https://www.codewars.com/users/LaurenceTaylor)
 
-I am a full stack software developer, former fraud analyst, and recent QMUL graduate. I have just completed the software development programme at Makers which placed strong emphasis on processes/ methodologies such as TDD, OOP, agile, MVC, git collaboration, and CI/CD. During the course I used JavaScript, Ruby and Python, but am enthusiastic to learn new technologies.
+I am a full stack developer and former fraud analyst, having recently completed the software development programme at [Makers](https://makers.tech/). The course emphasised TDD and Agile methodologies, as well as code quality and best practices. I am keen to work in (almost) any language, and always strive to pick things up quickly, help my team succeed, and deepen my understanding. It would be fantastic to continue learning within a high performing and communicative team.
 
-A few months ago I fully pursued my interest in coding, applying and being selected for Makers (developing a slight [Codewars](https://www.codewars.com/users/LaurenceTaylor) habit in the process). I am now excited to embark on a career which enables lifelong learning, working on interesting projects, and contributing to forward-thinking organisations.
+I've had an interest in coding for several years. At university I elected to take a module on vegetation modelling in R, and I found it among the most enjoyable of my degree. For a while I continued learning through the usual routes: freeCodeCamp, The Odin Project, Codecademy, edX, Codewars and others. In my previous role I approached management and secured approval to learn SQL, enabling far better analysis of global fraud trends. It was only SQL, but this was a thrill!
 
-Outside of coding I am interested in environmental issues, reading (book club member!), and playing guitar. I am also a keen, but untalented, 5-a-side football player.
+A few months ago I fully pursued my interest in development, applying and being selected for Makers. I am now excited to embark on a career which enables lifelong learning, working on interesting projects, and contributing to forward-thinking organisations.
 
 ## Projects
 
@@ -23,13 +24,13 @@ Project | Description | Technologies | Testing/ Other
 
 ### Learning Quickly and Independently
 
-One of Makers' mottos is 'learning how to learn', and they provide students with the tools and concepts to do so. In week 5 we were tasked with learning the basics of JavaScript within one week, then producing a [bowling scorecard app](https://github.com/LaurenceTaylor/bowling-challenge) on the weekend. This experience built my confidence, and for the [final project](https://github.com/LaurenceTaylor/deep_root) my team and I challenged ourselves to learn something completely new by creating a hardware product.
+One of Makers' mottos is 'learning how to learn', and they provide students with the tools and concepts to do so. In week 5 we were tasked with learning the basics of JavaScript within one week, then producing a [bowling scorecard app](https://github.com/LaurenceTaylor/bowling-challenge) on the weekend. This experience built my confidence, and for the [final project](https://github.com/LaurenceTaylor/deep_root) my team and I challenged ourselves to learn something completely new by creating a hardware product with a Python backend.
 
-In my previous role I learned a suite of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely unfamiliar field that was fraud prevention. I am pleased to say I became the top performer in terms of targets within three months.
+In my previous role I learned a suite of software (Cybersource, Sift Science, Arkowl and more) within weeks, as well as SQL and the entirely unfamiliar field that was fraud prevention. I became one of the top performers in terms of targets within a few months.
 
 ### Communication and Collaboration
 
-At Makers students either pair every day or work on group projects. This requires regular communication, collaboration, and code reviews. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on larger group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/LaurenceTaylor/MakersAirBnB-) would have been impossible without regular code reviews and good git collaboration.
+At Makers students either pair every day or work on group projects. This requires continuous communication, collaboration, and code review. When we were learning about single-page apps and APIs in JavaScript my team and I managed to produce and deploy a simple [notes app](https://github.com/LaurenceTaylor/notes_js) within a few days. This was enabled by frequent knowledge sharing and mobbing, and it was really enjoyable to make breakthroughs in the project together. Working on larger group projects such as [Acebook Spacebook](https://github.com/LaurenceTaylor/acebook-spacebook) and [MakersBnB](https://github.com/LaurenceTaylor/MakersAirBnB-) would have been impossible without regular stand-ups/ retros, reviews and good git collaboration.
 
 ### Test-Driven Development
 
@@ -42,8 +43,6 @@ A recent problem my team and I faced was to debug hardware - [our touch screen s
 ## Education
 
 #### Makers Academy (April 2019 to July 2019)
-
-<a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Ruby-298%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/JavaScript-258%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/HTML-107%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/SQL-83%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/laurencetaylor"><img src="https://img.shields.io/badge/Python-20%20commits-orange.svg" alt=""></a>
 
 * JavaScript, Ruby, Python, SQL, HTML/ CSS
 * TDD with Jasmine, RSpec, Capybara, Pytest; 95%+ test coverage, testing in isolation
@@ -83,5 +82,19 @@ Worked independently to a tight deadline while producing a trustee induction pac
 **House of MinaLima** (June to September 2016) | *Gallery Assistant*
 
 Interacted with hundreds of visitors daily while answering customer questions, initiating conversation, and helping to sell prints.
+
+## Interests
+
+:computer: *Technology*
+I like to keep up with news through publications like MIT Technology Review as well as Twitter, Youtube, and blog posts. Jabrils is a current favourite.
+
+:book: *Reading*
+Keen reader and currently a book club member! A recent great book was 'China in Ten Words' by Yu Hua.
+
+:soccer: *Team Sports*
+Enthusiastic, but untalented, 5-a-side football player. We started a group which now has ~40 members!
+
+:musical_note: *Playing Guitar*
+Music is a nice way to relax. I've been practicing acoustic guitar for around 15 years now.
 
 [Back to the top](https://github.com/LaurenceTaylor/CV#Laurence-Taylor)
