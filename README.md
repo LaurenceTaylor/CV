@@ -96,7 +96,7 @@ Keen reader and currently a book club member! A recent great read was 'China in 
 
 Enthusiastic, but untalented, 5-a-side football player. We started a group which now has ~40 members!
 
-:musical*note: \_Playing Guitar*
+:musical_note: _Playing Guitar_
 
 Music is a nice way to relax. I've been practicing acoustic guitar for around 15 years now.
 
